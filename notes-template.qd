@@ -1,0 +1,28 @@
+.docname {Notes Template}
+.doctype {paged}
+.doclang {English}
+.theme {paperwhite} layout:{latex}
+
+.docauthors
+  - Elvis
+
+.pagemargin {bottomcenter}
+    .currentpage
+
+
+.center
+  #! Notes book
+
+  **Elvis Perlika**
+
+  **Month Year**
+
+.whitespace 
+
+.tableofcontents 
+
+# First chapter
+
+.loremipsum 
+
+<!-- !(50%)[Quarkdown](image/logo.png) -->
