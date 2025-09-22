@@ -9,20 +9,12 @@
 .pagemargin {bottomcenter}
     .currentpage
 
-
-.center
-  #! Notes book
-
-  **Elvis Perlika**
-
-  **Month Year**
+.include {title.qd} 
 
 .whitespace 
 
 .tableofcontents 
 
-# First chapter
-
-.loremipsum 
+.include {chapter1.qd} 
 
 <!-- !(50%)[Quarkdown](image/logo.png) -->
