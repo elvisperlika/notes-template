@@ -1,0 +1,11 @@
+<!-- Definition -->
+.function {def} 
+    title body:
+    .box {.title} type:{note}
+        .body
+
+<!-- Definition without title -->
+.function {defwt} 
+    body:
+    .box type:{note}
+        .body

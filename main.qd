@@ -2,6 +2,9 @@
 .doctype {paged}
 .doclang {English}
 .theme {paperwhite} layout:{latex}
+.pageformat margin:{2cm} size:{A4}
+.paragraphstyle spacing:{0} indent:{1}
+.include {utility.qd}
 
 .docauthors
   - Elvis
