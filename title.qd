@@ -1,7 +1,9 @@
 .center
-  #! Notes book title
+    #! Title
 
-  Elvis Perlika
+    .whitespace height:{15cm}
 
-  Month Year
+    ###! Elvis Perlika
+
+    ###! Month Year
 

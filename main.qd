@@ -2,7 +2,6 @@
 .doctype {paged}
 .doclang {English}
 .theme {paperwhite} layout:{latex}
-.pageformat margin:{2cm} size:{A4}
 .paragraphstyle spacing:{0} indent:{1}
 .include {utility.qd}
 
@@ -19,5 +18,3 @@
 .tableofcontents 
 
 .include {chapter1.qd} 
-
-<!-- !(50%)[Quarkdown](image/logo.png) -->
