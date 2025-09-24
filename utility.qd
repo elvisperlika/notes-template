@@ -7,5 +7,15 @@
 <!-- Definition without title -->
 .function {defwt} 
     body:
-    .box type:{note}
+    .box {Definition} type:{note}
+        .body
+
+<!-- Little white space  -->
+.function {break} 
+    .whitespace height:{0.5cm}
+
+<!-- Theorem -->
+.function {theorem} 
+    body:
+    .box {Theorem} type:{warning}
         .body
